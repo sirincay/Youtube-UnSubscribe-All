@@ -1,4 +1,4 @@
-# Bütün YouTube abunəliklərindən çıxmaq üçün bunu edə bilərsiniz
+# Bütün YouTube abunəliklərindən çıxmaq üçün asan vasitə
 
 1) Google Chrome yaxud bənzəri bir brauzerini açın.
 

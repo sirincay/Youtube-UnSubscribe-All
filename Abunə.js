@@ -12,11 +12,9 @@ function husnuEhedov () {
     setTimeout(function () {
         var unSubBtn = document.getElementById("confirm-button").click();
         i++;
-        c--;
 
         console.log(i + " abunəlikdən çıxıldı"); // Konsola göstərəcək
-        console.log(c + " abunə qaldı");
-
+        
         setTimeout(function () {
             el = document.querySelector("ytd-channel-renderer");
             el.parentNode.removeChild(el);

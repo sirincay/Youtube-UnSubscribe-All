@@ -12,3 +12,4 @@ Açılan yerdən, Konsol bölməsinə keçin. Aşağıdakı kodu konsol sahəsin
 
 
 _Author: [@HusnuEhedov](t.me/husnuehedov)_
+_Ortaq: https://uzmanim.net/_
